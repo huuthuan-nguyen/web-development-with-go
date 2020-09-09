@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"gopkg.in/mgo.v2"
-	"gokpg.in/mgo.v2/bson"
+	"gopkg.in/mgo.v2/bson"
 )
 
 func main() {
